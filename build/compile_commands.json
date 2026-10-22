@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/himma/Desktop/comp3522/lab1/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -g -std=gnu++17 -o CMakeFiles\\main.dir\\main.cpp.obj -c C:\\Users\\himma\\Desktop\\comp3522\\lab1\\main.cpp",
+  "file": "C:/Users/himma/Desktop/comp3522/lab1/main.cpp",
+  "output": "C:/Users/himma/Desktop/comp3522/lab1/build/CMakeFiles/main.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/himma/Desktop/comp3522/lab1/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -g -std=gnu++17 -o CMakeFiles\\main.dir\\gcd.cpp.obj -c C:\\Users\\himma\\Desktop\\comp3522\\lab1\\gcd.cpp",
+  "file": "C:/Users/himma/Desktop/comp3522/lab1/gcd.cpp",
+  "output": "C:/Users/himma/Desktop/comp3522/lab1/build/CMakeFiles/main.dir/gcd.cpp.obj"
+}
+]

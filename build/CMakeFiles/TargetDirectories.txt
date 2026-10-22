@@ -1,0 +1,3 @@
+C:/Users/himma/Desktop/comp3522/lab1/build/CMakeFiles/main.dir
+C:/Users/himma/Desktop/comp3522/lab1/build/CMakeFiles/edit_cache.dir
+C:/Users/himma/Desktop/comp3522/lab1/build/CMakeFiles/rebuild_cache.dir

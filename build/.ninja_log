@@ -1,0 +1,6 @@
+# ninja log v7
+10	207	8143303632991713	CMakeFiles/main.dir/main.cpp.obj	4a0ccbe1a85a8116
+207	288	8143303634965375	main.exe	f6e94862c821cf99
+11	61	8143308265474394	CMakeFiles/main.dir/gcd.cpp.obj	8f31cbdf8fe886b1
+8	203	8143308265434351	CMakeFiles/main.dir/main.cpp.obj	4a0ccbe1a85a8116
+203	287	8143308267387694	main.exe	6972b7aa30d9c1c7
